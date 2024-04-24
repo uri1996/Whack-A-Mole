@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Owner/Documents/GitHub/Whack-A-Mole/VRProjectTest/Content/KubotaLevel.umap",
+				"C:/Users/Owner/Documents/GitHub/Whack-A-Mole/VRProjectTest/Content/Kubota/KubotaLevel.umap",
+				"C:/Users/Owner/Documents/GitHub/Whack-A-Mole/VRProjectTest/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Owner/Documents/GitHub/Whack-A-Mole/VRProjectTest/Content/ParcetLevel.umap",
+				"C:/Users/Owner/Documents/GitHub/Whack-A-Mole/VRProjectTest/Content/Parcet/ParcetLevel.umap",
+				"C:/Users/Owner/Documents/GitHub/Whack-A-Mole/VRProjectTest/Content/Yoshida/YoshidaLevel.umap",
 				"C:/Users/Owner/Desktop/Whack-A-Mole/VRProjectTest/Content/VRTemplate/Materials/MI_Grid_Accent.uasset",
 				"C:/Users/Owner/Desktop/Whack-A-Mole/Whack-A-Mole/VRProjectTest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"C:/Users/Owner/Desktop/Whack-A-Mole/Whack-A-Mole/VRProjectTest/Content/VRTemplate/Maps/VRTemplateMap.umap"
